@@ -25,6 +25,12 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
 
+#### 🧰 Developer Tools:
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
+
+
 #### 🧠 AI/ML/LLMs:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -33,11 +39,40 @@
 ![RAG](https://img.shields.io/badge/-RAG-red?style=for-the-badge)
 ![PEFT](https://img.shields.io/badge/-PEFT-orange?style=for-the-badge)
 
+
+#### 🧠 AI-Agent Frameworks:
+
+![CrewAI](https://img.shields.io/badge/CrewAI-5D3FD3?style=for-the-badge&logoColor=white)
+![SmolAgents](https://img.shields.io/badge/SmolAgents-00C7B7?style=for-the-badge&logoColor=white)
+![Microsoft AutoGen](https://img.shields.io/badge/Microsoft%20AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-008080?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+
+
+#### 🗂️ Vector Databases:
+
+![Pinecone](https://img.shields.io/badge/Pinecone-0094D1?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-7F52FF?style=for-the-badge&logo=weaviate&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFB6C1?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-228B22?style=for-the-badge&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-0078D4?style=for-the-badge&logo=milvus&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-00B4B6?style=for-the-badge&logo=qdrant&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 #### ☁️ Cloud & DevOps:
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### ⚙️ MLOps Tools:
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=wandb&logoColor=black)
+
 
 ---
 
@@ -71,7 +106,7 @@
 
 ### 📜 Certifications
 
-- [**Microsoft Certified: Azure Data Scientist Associate**](https://learn.microsoft.com/en-us/users/mukhtarulislam-6965/credentials/857c795dbee555a3?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+- [**Microsoft Certified: Azure Data Scientist Associate**](https://learn.microsoft.com/en-us/users/mukhtarulislam88/credentials/857c795dbee555a3?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
 - [**Machine Learning Specialization (Coursera)**](https://www.coursera.org/account/accomplishments/specialization/certificate/BFTBX5GEGTN9)  
 - [**Generative AI Fundamentals**](https://www.coursera.org/account/accomplishments/certificate/3FECDHUP3DJS)  
 - [**Gen-AI Working with LLMs**](https://www.linkedin.com/learning/certificates/16cff1d76a36268816018e4e11ef643350a2b361ff0b978874b2a507d3663bab)  
