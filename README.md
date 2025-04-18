@@ -7,10 +7,21 @@
 <h3 align="center">AI Engineer | GenAI Specialist | Researcher | Azure Certified</h3>
 
 <p align="center">
+ social-media
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+GenAI+Specialist;LLM+Fine-tuning+%26+Deployment;RAG+%7C+Azure+%7C+FastAPI+%7C+NLP" alt="Typing SVG" />
 </p>
 
 ---
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukhtar-ul-islam88/"><img width="48px" alt="Linkedin" title="Linkedin" src=".github/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/Mukhtarulislam5"><img width="48px" alt="Twitter" title="Twitter" src=".github/x.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:mukhtarulislam88@hotmail.com" alt="Hotmail" title="Hotmail"><img width="48px" src=".github/hotmail.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 ### 🚀 About Me
 
