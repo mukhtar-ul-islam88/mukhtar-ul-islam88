@@ -1,8 +1,13 @@
+<div align="center">
+<img width="100%" height = "250px" src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2016/10/digitalocean-penguin-linux-wallpaper.jpg" alt="cover" />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Mukhtar Ul Islam</h1>
 <h3 align="center">AI Engineer | GenAI Specialist | Researcher | Azure Certified</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+GenAI+Specialist;LLM+Fine-tuning+%26+Deployment;Applied+ML+%7C+RAG+%7C+Azure+%7C+FastAPI+%7C+NLP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+GenAI+Specialist;LLM+Fine-tuning+%26+Deployment;RAG+%7C+Azure+%7C+FastAPI+%7C+NLP" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +18,7 @@
 - 🎓 Research background with **M.Tech (AI)** and multiple **AI research publications**.
 - 🔍 Passionate about building **production-ready AI systems**, from data to deployment.
 - 🧰 Tools I love: `Python`, `FastAPI`, `LangChain`, `Llama`, `Claude`, `Hugging Face`, `Docker`, `Azure`, `AWS`
-- 📨 Reach me at: **[mukhtarulislam88@hotmail.com](mailto:mukhtarulislam88@hotmail.com)**
+<!-- - 📨 Reach me at: **[mukhtarulislam88@hotmail.com](mailto:mukhtarulislam88@hotmail.com)** -->
 
 ---
 
