@@ -122,7 +122,7 @@
 
 ### 📜 Certifications
 
-- [**Microsoft Certified: Azure Data Scientist Associate**](https://learn.microsoft.com/en-us/users/mukhtarulislam88/credentials/857c795dbee555a3?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+- [**Microsoft Certified: Azure Data Scientist Associate**](https://learn.microsoft.com/api/credentials/share/en-us/mukhtarulIslam88/857C795DBEE555A3?sharingId=764DBC36F19D0011)  
 - [**Machine Learning Specialization (Coursera)**](https://www.coursera.org/account/accomplishments/specialization/certificate/BFTBX5GEGTN9)  
 - [**Generative AI Fundamentals**](https://www.coursera.org/account/accomplishments/certificate/3FECDHUP3DJS)  
 - [**Gen-AI Working with LLMs**](https://www.linkedin.com/learning/certificates/16cff1d76a36268816018e4e11ef643350a2b361ff0b978874b2a507d3663bab)  
